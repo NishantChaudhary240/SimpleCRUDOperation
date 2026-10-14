@@ -106,7 +106,4 @@ npm run build
 npm run lint
 ```
 
-## Notes
 
-- A separate database test helper is not required to run the application. Database connection and table synchronization happen when the backend server starts.
-- Keep database credentials in `Backend/.env`; do not commit secrets.
